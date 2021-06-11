@@ -47,6 +47,10 @@ body {
   font-weight: bold;
 }
 
+.heading_container.our-products {
+  margin-top: 2rem;
+}
+
 .heading_container.heading_center {
   -webkit-box-align: center;
       -ms-flex-align: center;
@@ -131,7 +135,7 @@ a:focus {
 }
 
 .navbar-brand {
-  width: 7rem;
+  width: 9rem;
   height: auto;
   color: #ffffff;
   font-weight: bold;
@@ -849,5 +853,22 @@ a:focus {
   background: #fbcbb1;
   -webkit-box-shadow: 0 0 20px rgba(207, 152, 152, 0.933);
           box-shadow: 0 0 20px rgba(207, 152, 152, 0.933);
+}
+
+.footer-logo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.foot-logo {
+  margin-top: 1rem;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 13rem;
 }
 /*# sourceMappingURL=style.css.map */
