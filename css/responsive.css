@@ -48,15 +48,15 @@
   }
 
   .about_section {
-    background: linear-gradient(to bottom, #b2f2c450%, transparent 50%);
+    background: linear-gradient(to bottom, #422342 50%, transparent 50%);
   }
 
   .about_section2 {
-    background: linear-gradient(to bottom, #b2f2c4 50%, transparent 50%);
+    background: linear-gradient(to bottom, #422342 50%, transparent 50%);
   }
 
   .contact_section {
-    background: linear-gradient(to bottom, #b2f2c4625px, transparent 625px);
+    background: linear-gradient(to bottom, #422342 625px, transparent 625px);
   }
 
   /* 
@@ -85,11 +85,11 @@
 
 @media (max-width: 480px) {
   .about_section {
-    background: linear-gradient(to bottom, #b2f2c445%, transparent 45%);
+    background: linear-gradient(to bottom, #422342 45%, transparent 45%);
   }
 
   .about_section2 {
-    background: linear-gradient(to bottom, #b2f2c4 45%, transparent 45%);
+    background: linear-gradient(to bottom, #422342 45%, transparent 45%);
   }
 }
 
@@ -103,17 +103,17 @@
   }
 
   .about_section2 {
-    background: linear-gradient(to bottom, #b2f2c4 40%, transparent 40%);
+    background: linear-gradient(to bottom, #422342 40%, transparent 40%);
   }
 }
 
 @media (max-width: 376px) {
   .about_section {
-    background: linear-gradient(to bottom, #b2f2c4 40%, transparent 40%);
+    background: linear-gradient(to bottom, #422342 40%, transparent 40%);
   }
 
   .about_section2 {
-    background: linear-gradient(to bottom, #b2f2c4 35%, transparent 35%);
+    background: linear-gradient(to bottom, #422342 35%, transparent 35%);
   }
 }
 

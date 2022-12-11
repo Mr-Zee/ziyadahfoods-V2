@@ -99,8 +99,8 @@ a:focus {
   background: linear-gradient(
     0deg,
     rgba(255, 255, 255, 1) 3%,
-    #44a784 62%,
-    rgba(27, 85, 65, 1) 100%
+    rgba(176, 39, 176, 1) 48%,
+    rgba(66, 35, 66, 1) 100%
   );
   /* background: linear-gradient(
     150deg,
@@ -561,7 +561,7 @@ a:focus {
 }
 
 .about_section2 {
-  background: linear-gradient(to right, transparent 50%, #b2f2c4 50%);
+  background: linear-gradient(to right, transparent 50%, #422342 50%);
 }
 
 .about_section2 .detail-box a {
@@ -949,3 +949,20 @@ a:focus {
   padding: 2% 10%;
 }
 /*# sourceMappingURL=style.css.map */
+.collabs-logo {
+  margin: 50px auto;
+  padding: 0 5%;
+  width: 80%;
+  position: relative;
+  overflow: hidden;
+}
+.itm-cloned {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.itm img {
+  height: 200px;
+  width: 300px;
+}
